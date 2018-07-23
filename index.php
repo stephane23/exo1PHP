@@ -6,7 +6,7 @@ echo $name;
 //exo2
 $lastname = "fernandes <br>";
 $firstname = "stephane <br>";
-$age = "33 <br>";
+$age = 33 "<br>";
 echo $lastname, $firstname, $age;
 
 //exo3
